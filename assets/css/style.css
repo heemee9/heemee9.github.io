@@ -2058,7 +2058,7 @@ header .header-menu-trigger:focus {
 /* contact content */
 
 .contact-page-content__image {
-	height: 100%;
+	height: 200px;
 }
 
 .contact-page-content__text {
